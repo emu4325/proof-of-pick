@@ -1,0 +1,323 @@
+{
+ "card_version": 2,
+ "code_commit": null,
+ "decision_sha256": "f6b8924ea391f0ea5d6eba42e5512af4c872908849c152c7cffd6c18467647c5",
+ "diagnostics": {
+  "active_runners": 16,
+  "entropy": {
+   "bin": "混戦",
+   "n_bin": "16〜18"
+  },
+  "market_complete": true,
+  "place": {
+   "horse_no": 5,
+   "probability": 0.48106767249757554,
+   "selection": "ai-value-top1-v1"
+  },
+  "prospective_eligible": true,
+  "reasons": [],
+  "states": [
+   "正常参考"
+  ],
+  "status": "正常参考",
+  "strategies": {
+   "ai-value-top1-v1": [
+    5
+   ],
+   "longshot-fq005-v1": [
+    13
+   ],
+   "track-win-ev105-v1": [],
+   "track-win-ev120-v1": []
+  },
+  "top": {
+   "AI": [
+    5,
+    1,
+    6
+   ],
+   "基礎": [
+    6,
+    1,
+    5
+   ]
+  },
+  "wide": {
+   "break_even": 5.754183403687727,
+   "pair": [
+    1,
+    5
+   ],
+   "probability": 0.1737866052999149
+  }
+ },
+ "generated_at": "2026-11-22 15:09:00.876559",
+ "horses": [
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": true,
+   "bet_top_win": true,
+   "bet_value_place": true,
+   "bet_value_win": true,
+   "fundamental_place": 0.24030494921358272,
+   "fundamental_win": 0.05875150935887099,
+   "horse_no": 5,
+   "p_place": 0.48106767249757554,
+   "p_win": 0.21350504630312314,
+   "rank": 1
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.36608202766662357,
+   "fundamental_win": 0.11379681719217682,
+   "horse_no": 1,
+   "p_place": 0.3527094808540994,
+   "p_win": 0.1278515536098772,
+   "rank": 2
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.6786731356792686,
+   "fundamental_win": 0.4727584288773585,
+   "horse_no": 6,
+   "p_place": 0.3117466045138859,
+   "p_win": 0.10696707667180061,
+   "rank": 3
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.17367999994828934,
+   "fundamental_win": 0.03750184244635074,
+   "horse_no": 7,
+   "p_place": 0.27204318374579406,
+   "p_win": 0.0888488031044042,
+   "rank": 4
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.16786284588671702,
+   "fundamental_win": 0.03584738323491524,
+   "horse_no": 8,
+   "p_place": 0.25349676850371833,
+   "p_win": 0.08100567870544531,
+   "rank": 5
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.08731362658651308,
+   "fundamental_win": 0.015798643677969813,
+   "horse_no": 3,
+   "p_place": 0.18980726821434357,
+   "p_win": 0.05661617743917605,
+   "rank": 6
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.07925752213893841,
+   "fundamental_win": 0.014068743431093702,
+   "horse_no": 12,
+   "p_place": 0.18980726821434357,
+   "p_win": 0.05661617743917605,
+   "rank": 7
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.20040236293465707,
+   "fundamental_win": 0.04549806481870025,
+   "horse_no": 14,
+   "p_place": 0.17661045176460494,
+   "p_win": 0.05199574111995527,
+   "rank": 8
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.07037933095628297,
+   "fundamental_win": 0.012218353915222649,
+   "horse_no": 10,
+   "p_place": 0.16219901310215026,
+   "p_win": 0.047100047584121084,
+   "rank": 9
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.19243521063590113,
+   "fundamental_win": 0.0430441692159444,
+   "horse_no": 4,
+   "p_place": 0.15036375424667825,
+   "p_win": 0.04319055007738727,
+   "rank": 10
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.18439525010892846,
+   "fundamental_win": 0.04062870748726425,
+   "horse_no": 9,
+   "p_place": 0.13445540273881856,
+   "p_win": 0.03808454059886458,
+   "rank": 11
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.13633559309616708,
+   "fundamental_win": 0.027384008910562637,
+   "horse_no": 2,
+   "p_place": 0.09603980659479545,
+   "p_win": 0.026395819105303295,
+   "rank": 12
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.15689382361179632,
+   "fundamental_win": 0.032807903075027886,
+   "horse_no": 13,
+   "p_place": 0.06731559914091621,
+   "p_win": 0.018175656523833274,
+   "rank": 13
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.14032048490273438,
+   "fundamental_win": 0.028408228998363337,
+   "horse_no": 11,
+   "p_place": 0.06308463761148345,
+   "p_win": 0.01699760155441947,
+   "rank": 14
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.07451153737231057,
+   "fundamental_win": 0.013072265974335992,
+   "horse_no": 16,
+   "p_place": 0.06123929548716163,
+   "p_win": 0.01648620697757038,
+   "rank": 15
+  },
+  {
+   "bet_confidence_place": false,
+   "bet_confidence_win": false,
+   "bet_margin_place": false,
+   "bet_margin_win": false,
+   "bet_top_place": false,
+   "bet_top_win": false,
+   "bet_value_place": false,
+   "bet_value_win": false,
+   "fundamental_place": 0.051152299258344205,
+   "fundamental_win": 0.008414929385842844,
+   "horse_no": 15,
+   "p_place": 0.038013792766086435,
+   "p_win": 0.01016332318554286,
+   "rank": 16
+  }
+ ],
+ "model_sha256": "bd4ac0ab8c56b8191ba3b9357dfd9c4b5cebe8a4f89052cd88bfd2c7c1d8d93e",
+ "race": "東京11R",
+ "race_id": "2026|1122|05|05|05|11",
+ "rules": {
+  "ai-value-top1-v1": "全活動馬の市場入力が揃い、p_win−q>0.03からp_win最大1頭。同率は馬番昇順",
+  "longshot-fq005-v1": "q<0.05からfundamental_win/q最大1頭。同率は馬番昇順",
+  "track-win-ev105-v1": "p_win×表示単勝倍率>=1.05の全頭（紙上記録）",
+  "track-win-ev120-v1": "p_win×表示単勝倍率>=1.20の全頭（紙上記録）"
+ },
+ "start_at": "2026-11-22 15:20:00"
+}
